@@ -1,21 +1,20 @@
-# Task Management System – Frontend
+# MERN Stack Task Optimizer
+### Prioritization and Scheduling Simplified
 
-React frontend for a role-based Task Management System with Customer and Employee workflows.
-
-## Features
-- Role-based authentication (Customer, Employee, User)
-- Task creation, assignment, and status updates
-- Secure JWT-based authentication
-- Responsive UI using React Bootstrap
+A full-stack web application for intelligent task prioritization and scheduling using MERN stack.
 
 ## Tech Stack
-- React.js (Vite)
-- React Bootstrap, CSS
-- Axios
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
-## Live & Links
-- Live App: https://profound-squirrel-03efdb.netlify.app  
-- API Docs (Postman): https://documenter.getpostman.com/view/30449043/2s9YyqjNTJ  
+## Structure
+- FE → Frontend (React)
+- BE → Backend (Node + Express)
+
+## Live
+https://profound-squirrel-03efdb.netlify.app
 
 ## Setup (Local)
 bash
@@ -36,4 +35,5 @@ Employee
 Customer
 
 * [customer1@gmail.com](mailto:customer1@gmail.com) / Password@123
+
 
